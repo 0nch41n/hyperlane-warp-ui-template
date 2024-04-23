@@ -3,6 +3,7 @@
 # The input here is typically the output of the Hyperlane CLI warp deploy command
 ---
 tokens:
+# Eth Mainnet HypNative token
   - chainName: base
     standard: EvmHypCollateral
     decimals: 6
